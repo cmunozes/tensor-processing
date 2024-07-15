@@ -53,4 +53,4 @@ if ~isempty(ind)
     lambda2(ind) = lambda2(ind) - 2*lambda3(ind);
     lambda3(ind) = lambda3(ind) - 2*lambda3(ind);
 end
- No newline at end of file
+% No newline at end of file
